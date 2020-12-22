@@ -67,11 +67,11 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "YoutubeDownloader"))
-        self.textbox_url.setPlainText(_translate("MainWindow", "https://www.youtube.com/watch?v=_Y_417Qazds"))
-        self.textbox_start.setPlainText(_translate("MainWindow", "88.5"))
-        self.textbox_end.setPlainText(_translate("MainWindow", "92"))
-        self.textbox_filename.setPlainText(_translate("MainWindow", "unverfugten"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "YoutubeDownloader für Neger"))
+        self.textbox_url.setPlainText(_translate("MainWindow", ""))
+        self.textbox_start.setPlainText(_translate("MainWindow", ""))
+        self.textbox_end.setPlainText(_translate("MainWindow", ""))
+        self.textbox_filename.setPlainText(_translate("MainWindow", ""))
         self.button_download.setText(_translate("MainWindow", "Clip runterladen"))
         self.textBrowser.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"

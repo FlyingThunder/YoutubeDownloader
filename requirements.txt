@@ -1,4 +1,8 @@
 audioclipextractor==0.3.0
+cx-Freeze==6.3
+cx-logging==2.2
+importlib-metadata==2.0.0
 PyQt5==5.15.1
 PyQt5-sip==12.8.1
-youtube-dlc==2020.10.26
+youtube-dlc==2020.11.11.post3
+zipp==3.4.0

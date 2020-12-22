@@ -7,7 +7,7 @@ import os
 import datetime
 
 ffmpegpath = "ffmpeg.exe"
-sys.stdout = open("test.txt", "w")
+sys.stdout = open("test.txt", "w", 1)
 open("test.txt", "w").truncate(0)
 
 
